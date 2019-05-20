@@ -2,4 +2,4 @@
 
 ***
 
-background-image: url(./img/logo.png)
+background-image: url(img/logo.png)
